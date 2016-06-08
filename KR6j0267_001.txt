@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:03.026703
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:42
 #+TITLE: 番大悲神呪
 #+PROPERTY: CBETA_ID T20n1063
 #+PROPERTY: ID KR6j0267
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1063
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0267_T_001-0114c> 
 #+PROPERTY: JUAN 1
-No.1063[cf.Nos.1056-1058,1060-1062,¶
-1064]¶
-
- 番大悲神呪¶
+No. 1063 [cf. Nos. 1056-1058, 1060-1062,¶
+ 1064]¶
+番大悲神呪¶
 ¶
 
 捺麼囉得捺(二合)得囉(二合)牙(引)牙捺麼阿㗚牙¶
